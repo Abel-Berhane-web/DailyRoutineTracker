@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M9.78,18.65l0.28,-4.2l-3.18,-2.88l8.71,-7.89l-13.3,7.56l4.69,1.44zM12,2l9,2l-2,17l-6,-3l-3,3l-1,-6l-6,-3z"/>
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M11.94,0L24,4L20,24L10,19L5,24L3,12L0,8L11.94,0ZM12.5,3.5L3.5,7.5L5.5,16.5L10.5,14L13.5,19L18.5,5.5L12.5,3.5Z"/>
+  <!-- Simplified Paper Plane shape as placeholder for Telegram -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M20.66,3.6c0.6,0.14,0.9,0.78,0.67,1.35l-3.56,14.4c-0.17,0.71-0.96,1.02-1.6,0.63l-4.57-2.82-2.21,2.13c-0.25,0.24-0.65,0.24-0.89-0.01l-1.12-4.52L2.73,13.2c-0.68-0.21-0.66-1.19,0.03-1.37L20.66,3.6z M18.6,5.5L4.8,11.8l4.2,1.3l8.3-6.6c0.1-0.08,0.2,0.06,0.1,0.14l-7.1,7.2l0.3,3.7l2.8,1.7L18.6,5.5z"/>
+</vector>

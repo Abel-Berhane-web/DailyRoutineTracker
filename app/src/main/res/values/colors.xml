@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    
+    <!-- Base Monochrome Palette -->
+    <color name="pure_black">#000000</color>
+    <color name="deep_gray">#0D0D0D</color>
+    <color name="dark_gray">#1A1A1A</color>
+    <color name="medium_gray">#757575</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="soft_white">#F8F9FA</color>
+    <color name="pure_white">#FFFFFF</color>
+
+    <!-- Glassmorphism Semi-Transparent Colors -->
+    <color name="glass_white">#E6FFFFFF</color> <!-- 90% opacity white -->
+    <color name="glass_white_thin">#99FFFFFF</color> <!-- 60% opacity white -->
+    <color name="glass_black">#CC000000</color> <!-- 80% opacity black -->
+    
+    <!-- Theme Mapping -->
+    <color name="background_color">@color/soft_white</color>
+    <color name="card_background">@color/pure_white</color>
+    
+    <color name="primary_color">@color/pure_black</color>
+    <color name="text_color_primary">@color/pure_black</color>
+    <color name="text_color_secondary">#636366</color>
+    
+    <color name="input_background">@color/pure_white</color>
+    <color name="button_background">@color/pure_black</color>
+    <color name="accent_color">@color/pure_black</color>
+    <color name="secondary_accent">@color/dark_gray</color>
+    <color name="divider_color">#E5E5EA</color>
+    
+    <color name="completed_task_color">@color/pure_black</color>
+    <color name="progress_bar_color">@color/pure_black</color>
+    
+    <color name="primary_variant">@color/pure_white</color>
+    
+    <color name="priority_blue">@color/pure_black</color>
+    <color name="priority_red">#FF3B30</color>
+    <color name="priority_default">@color/medium_gray</color>
+
+    <color name="fab_background">@color/pure_black</color>
+    <color name="fab_text_color">@color/pure_white</color>
+    <color name="fab_icon_tint">@color/pure_white</color>
+</resources>

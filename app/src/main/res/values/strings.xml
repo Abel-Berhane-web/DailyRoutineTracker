@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily Routine Tracker</string>
+    <string name="toast_enter_task">Please enter a task</string>
+    <string name="progress_format">Completion: %d%%</string>
+    <string name="progress_zero">Completion: 0%</string>
+    <string name="hint_enter_task">Enter a task</string>
+    <string name="button_add_task">Add</string>
+    <string name="text_initial_progress">Completion: 0%</string>
+    <string name="text_your_progress">Your Progress</string>
+    <string name="text_todays_tasks">Today\'s Tasks</string>
+    <string name="do_it">DO IT</string>
+    <string name="add_task">Add Task</string>
+    
+    <!-- Dashboard Strings -->
+    <string name="dashboard_title">Overview</string>
+    <string name="dashboard_total">Total Tasks</string>
+    <string name="dashboard_completed">Completed</string>
+    <string name="dashboard_pending">Pending</string>
+    <string name="dashboard_quote">"Small steps everyday lead to big results over time."</string>
+    <string name="do_itt">DO IT!</string>
+</resources>
