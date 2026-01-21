@@ -65,3 +65,54 @@ This application represents a modern approach to **AI-Augmented Development**.
 #### Clone the repository
 ```bash
 git clone https://github.com/yourusername/DailyRoutineTracker.git
+
+
+
+Build & Run
+
+Sync Gradle and deploy to an emulator or physical device.
+
+Project Structure
+app/src/main/
+├── java/.../dailyroutinetracker/
+│   ├── api/        # Retrofit clients & Groq endpoints
+│   ├── model/      # Task, DailyStats, and AI models
+│   ├── ui/         # Custom WeeklyAnalyticsView logic
+│   └── MainActivity.kt
+└── res/layout/
+    ├── activity_main.xml       # Glassmorphism dashboard
+    ├── list_item_task.xml      # Modern task row UI
+    └── list_item_history.xml   # Expandable analytics cards
+
+Contributing
+
+Contributions are welcome and appreciated.
+
+Fork the project
+
+Create your feature branch
+
+git checkout -b feature/AmazingFeature
+
+
+Commit your changes
+
+git commit -m "Add AmazingFeature"
+
+
+Push to the branch
+
+git push origin feature/AmazingFeature
+
+
+Open a Pull Request
+
+License
+
+Distributed under the MIT License.
+See LICENSE for more information.
+
+Contact
+
+Abel Berhane
+GitHub: https://github.com/Abel-Berhane-web
